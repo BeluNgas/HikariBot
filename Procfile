@@ -1,0 +1,1 @@
+ worker : git clone https://github.com/BeluNgas/node_modules && npm i ffmpeg && npm start
